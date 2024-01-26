@@ -5,6 +5,7 @@ const sequelize = require("./config/database");
 const userRoutes = require("./routes/userRoutes");
 const authRoutes = require("./routes/authRoutes");
 const residentRoutes = require("./routes/residentRoutes");
+const barangayOfficialRoutes = require("./routes/barangayOfficialRoutes");
 const cors = require('cors');
 const logger = require('./config/logger');
 
@@ -22,6 +23,7 @@ app.use(cors());
 app.use("/api/v1/auth", authRoutes);
 app.use("/api/v1", userRoutes);
 app.use("/api/v1", residentRoutes);
+app.use("/api/v1", barangayOfficialRoutes);
 
 process.on('unhandledRejection', (reason, promise) => {
   logger.error('Unhandled Rejection at:', promise, 'reason:', reason);
