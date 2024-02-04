@@ -9,13 +9,32 @@ const UserController = {
     try {
       const users = await User.findAll({
         where: {
-          isAdmin: false
-        }
+          isAdmin: false,
+        },
       });
       res.status(200).json(users);
       logger.info("Fetched all users");
     } catch (error) {
       logger.error(`Error fetching users: ${error.message}`);
+      res.status(500).json({ message: error.message });
+    }
+  },
+
+  async currentAuthenticatedUser(req, res) {
+    try {
+      // Assuming req.userData contains the ID of the user
+      const userId = req.userData.id;
+
+      // Find the user by their ID
+      const user = await User.findByPk(userId);
+      if (user) {
+        // Consider what user information should be returned and filter out sensitive data
+        const { password, ...userWithoutPassword } = user.toJSON();
+        res.status(200).json(userWithoutPassword);
+      } else {
+        res.status(404).json({ message: "User not found" });
+      }
+    } catch (error) {
       res.status(500).json({ message: error.message });
     }
   },
