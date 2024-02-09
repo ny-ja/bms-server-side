@@ -8,6 +8,7 @@ const residentRoutes = require("./routes/residentRoutes");
 const barangayOfficialRoutes = require("./routes/barangayOfficialRoutes");
 const barangayProjectRoutes = require("./routes/barangayProjectRoutes");
 const barangayEventRoutes = require("./routes/barangayEventRoutes");
+const certificationRoutes = require("./routes/certificationRoutes");
 const cors = require('cors');
 const logger = require('./config/logger');
 
@@ -28,6 +29,7 @@ app.use("/api/v1", residentRoutes);
 app.use("/api/v1", barangayOfficialRoutes);
 app.use("/api/v1", barangayProjectRoutes);
 app.use("/api/v1", barangayEventRoutes);
+app.use("/api/v1", certificationRoutes);
 
 process.on('unhandledRejection', (reason, promise) => {
   logger.error('Unhandled Rejection at:', promise, 'reason:', reason);
