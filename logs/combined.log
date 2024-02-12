@@ -3145,3 +3145,184 @@
 {"level":"info","message":"Fetched all certification records","service":"user-service","timestamp":"2024-02-09 22:01:33"}
 {"level":"info","message":"Fetched all certification records","service":"user-service","timestamp":"2024-02-09 22:16:54"}
 {"level":"info","message":"Fetched all certification records","service":"user-service","timestamp":"2024-02-09 22:16:54"}
+{"level":"info","message":"Fetched all users","service":"user-service","timestamp":"2024-02-12 08:22:15"}
+{"level":"info","message":"Fetched all residents","service":"user-service","timestamp":"2024-02-12 08:26:16"}
+{"level":"info","message":"Fetched all residents","service":"user-service","timestamp":"2024-02-12 08:26:16"}
+{"level":"info","message":"Fetched all barangay projects","service":"user-service","timestamp":"2024-02-12 08:26:16"}
+{"level":"info","message":"Fetched all barangay projects","service":"user-service","timestamp":"2024-02-12 08:26:16"}
+{"level":"info","message":"Fetched all barangay events","service":"user-service","timestamp":"2024-02-12 08:26:16"}
+{"level":"info","message":"Fetched all barangay events","service":"user-service","timestamp":"2024-02-12 08:26:16"}
+{"level":"info","message":"Fetched all users","service":"user-service","timestamp":"2024-02-12 08:26:20"}
+{"level":"info","message":"Fetched all users","service":"user-service","timestamp":"2024-02-12 08:26:20"}
+{"level":"info","message":"Fetched all users","service":"user-service","timestamp":"2024-02-12 08:26:29"}
+{"level":"info","message":"Fetched all users","service":"user-service","timestamp":"2024-02-12 08:26:29"}
+{"level":"info","message":"Fetched all users","service":"user-service","timestamp":"2024-02-12 08:26:29"}
+{"level":"info","message":"Fetched all users","service":"user-service","timestamp":"2024-02-12 08:26:35"}
+{"level":"info","message":"Fetched all users","service":"user-service","timestamp":"2024-02-12 08:26:35"}
+{"level":"info","message":"Fetched all users","service":"user-service","timestamp":"2024-02-12 08:26:35"}
+{"level":"info","message":"Fetched all users","service":"user-service","timestamp":"2024-02-12 08:26:39"}
+{"level":"info","message":"Fetched all users","service":"user-service","timestamp":"2024-02-12 08:26:39"}
+{"level":"info","message":"Fetched all users","service":"user-service","timestamp":"2024-02-12 08:26:39"}
+{"level":"info","message":"Fetched all users","service":"user-service","timestamp":"2024-02-12 08:26:42"}
+{"level":"info","message":"Fetched all users","service":"user-service","timestamp":"2024-02-12 08:26:42"}
+{"level":"info","message":"Fetched all users","service":"user-service","timestamp":"2024-02-12 08:26:42"}
+{"level":"info","message":"Fetched all users","service":"user-service","timestamp":"2024-02-12 08:26:46"}
+{"level":"info","message":"Fetched all users","service":"user-service","timestamp":"2024-02-12 08:26:46"}
+{"level":"info","message":"Fetched all users","service":"user-service","timestamp":"2024-02-12 08:26:46"}
+{"level":"info","message":"Fetched all users","service":"user-service","timestamp":"2024-02-12 08:26:49"}
+{"level":"info","message":"Fetched all users","service":"user-service","timestamp":"2024-02-12 08:26:49"}
+{"level":"info","message":"Fetched all users","service":"user-service","timestamp":"2024-02-12 08:26:49"}
+{"level":"info","message":"Fetched all users","service":"user-service","timestamp":"2024-02-12 08:26:54"}
+{"level":"info","message":"Fetched all users","service":"user-service","timestamp":"2024-02-12 08:26:54"}
+{"level":"info","message":"Fetched all users","service":"user-service","timestamp":"2024-02-12 08:26:54"}
+{"level":"info","message":"Fetched all users","service":"user-service","timestamp":"2024-02-12 08:26:57"}
+{"level":"info","message":"Fetched all users","service":"user-service","timestamp":"2024-02-12 08:26:57"}
+{"level":"info","message":"Fetched all users","service":"user-service","timestamp":"2024-02-12 08:26:57"}
+{"level":"info","message":"Fetched all residents","service":"user-service","timestamp":"2024-02-12 08:27:00"}
+{"level":"info","message":"Fetched all residents","service":"user-service","timestamp":"2024-02-12 08:27:00"}
+{"level":"info","message":"Fetched all residents","service":"user-service","timestamp":"2024-02-12 08:27:11"}
+{"level":"info","message":"Fetched all residents","service":"user-service","timestamp":"2024-02-12 08:27:11"}
+{"level":"info","message":"Fetched all residents","service":"user-service","timestamp":"2024-02-12 08:27:11"}
+{"level":"info","message":"Fetched all residents","service":"user-service","timestamp":"2024-02-12 08:27:16"}
+{"level":"info","message":"Fetched all residents","service":"user-service","timestamp":"2024-02-12 08:27:16"}
+{"level":"info","message":"Fetched all residents","service":"user-service","timestamp":"2024-02-12 08:27:16"}
+{"level":"info","message":"Fetched all residents","service":"user-service","timestamp":"2024-02-12 08:27:21"}
+{"level":"info","message":"Fetched all residents","service":"user-service","timestamp":"2024-02-12 08:27:21"}
+{"level":"info","message":"Fetched all residents","service":"user-service","timestamp":"2024-02-12 08:27:21"}
+{"level":"info","message":"Fetched all residents","service":"user-service","timestamp":"2024-02-12 08:27:23"}
+{"level":"info","message":"Fetched all residents","service":"user-service","timestamp":"2024-02-12 08:27:30"}
+{"level":"info","message":"Fetched all residents","service":"user-service","timestamp":"2024-02-12 08:27:30"}
+{"level":"info","message":"Fetched all residents","service":"user-service","timestamp":"2024-02-12 08:27:30"}
+{"level":"info","message":"Fetched all residents","service":"user-service","timestamp":"2024-02-12 08:27:35"}
+{"level":"info","message":"Fetched all residents","service":"user-service","timestamp":"2024-02-12 08:27:35"}
+{"level":"info","message":"Fetched all residents","service":"user-service","timestamp":"2024-02-12 08:27:35"}
+{"level":"info","message":"Fetched all residents","service":"user-service","timestamp":"2024-02-12 08:27:41"}
+{"level":"info","message":"Fetched all residents","service":"user-service","timestamp":"2024-02-12 08:27:41"}
+{"level":"info","message":"Fetched all residents","service":"user-service","timestamp":"2024-02-12 08:27:41"}
+{"level":"info","message":"Fetched all residents","service":"user-service","timestamp":"2024-02-12 08:27:47"}
+{"level":"info","message":"Fetched all residents","service":"user-service","timestamp":"2024-02-12 08:27:47"}
+{"level":"info","message":"Fetched all residents","service":"user-service","timestamp":"2024-02-12 08:27:47"}
+{"level":"info","message":"Fetched all residents","service":"user-service","timestamp":"2024-02-12 08:28:36"}
+{"level":"info","message":"Fetched all residents","service":"user-service","timestamp":"2024-02-12 08:28:36"}
+{"level":"info","message":"Fetched all residents","service":"user-service","timestamp":"2024-02-12 08:28:36"}
+{"level":"info","message":"Fetched all barangay officials","service":"user-service","timestamp":"2024-02-12 08:28:39"}
+{"level":"info","message":"Fetched all barangay officials","service":"user-service","timestamp":"2024-02-12 08:28:39"}
+{"level":"info","message":"Fetched all barangay officials","service":"user-service","timestamp":"2024-02-12 08:28:48"}
+{"level":"info","message":"Fetched all barangay officials","service":"user-service","timestamp":"2024-02-12 08:28:48"}
+{"level":"info","message":"Fetched all barangay officials","service":"user-service","timestamp":"2024-02-12 08:28:48"}
+{"level":"info","message":"Fetched all barangay officials","service":"user-service","timestamp":"2024-02-12 08:29:59"}
+{"level":"info","message":"Fetched all barangay officials","service":"user-service","timestamp":"2024-02-12 08:29:59"}
+{"level":"info","message":"Fetched all barangay officials","service":"user-service","timestamp":"2024-02-12 08:29:59"}
+{"level":"info","message":"Fetched all barangay officials","service":"user-service","timestamp":"2024-02-12 08:30:05"}
+{"level":"info","message":"Fetched all barangay officials","service":"user-service","timestamp":"2024-02-12 08:30:05"}
+{"level":"info","message":"Fetched all barangay officials","service":"user-service","timestamp":"2024-02-12 08:30:05"}
+{"level":"info","message":"Fetched all barangay officials","service":"user-service","timestamp":"2024-02-12 08:30:09"}
+{"level":"info","message":"Fetched all barangay officials","service":"user-service","timestamp":"2024-02-12 08:30:09"}
+{"level":"info","message":"Fetched all barangay officials","service":"user-service","timestamp":"2024-02-12 08:30:09"}
+{"level":"info","message":"Fetched all barangay officials","service":"user-service","timestamp":"2024-02-12 08:30:12"}
+{"level":"info","message":"Fetched all barangay officials","service":"user-service","timestamp":"2024-02-12 08:30:12"}
+{"level":"info","message":"Fetched all barangay officials","service":"user-service","timestamp":"2024-02-12 08:30:12"}
+{"level":"info","message":"Fetched all barangay officials","service":"user-service","timestamp":"2024-02-12 08:30:16"}
+{"level":"info","message":"Fetched all barangay officials","service":"user-service","timestamp":"2024-02-12 08:30:16"}
+{"level":"info","message":"Fetched all barangay officials","service":"user-service","timestamp":"2024-02-12 08:30:16"}
+{"level":"info","message":"Fetched all barangay officials","service":"user-service","timestamp":"2024-02-12 08:30:19"}
+{"level":"info","message":"Fetched all barangay officials","service":"user-service","timestamp":"2024-02-12 08:30:19"}
+{"level":"info","message":"Fetched all barangay officials","service":"user-service","timestamp":"2024-02-12 08:30:19"}
+{"level":"info","message":"Fetched all barangay officials","service":"user-service","timestamp":"2024-02-12 08:30:22"}
+{"level":"info","message":"Fetched all barangay officials","service":"user-service","timestamp":"2024-02-12 08:30:22"}
+{"level":"info","message":"Fetched all barangay officials","service":"user-service","timestamp":"2024-02-12 08:30:22"}
+{"level":"info","message":"Fetched all barangay projects","service":"user-service","timestamp":"2024-02-12 08:30:23"}
+{"level":"info","message":"Fetched all barangay projects","service":"user-service","timestamp":"2024-02-12 08:30:23"}
+{"level":"info","message":"Fetched all barangay projects","service":"user-service","timestamp":"2024-02-12 08:30:27"}
+{"level":"info","message":"Fetched all barangay projects","service":"user-service","timestamp":"2024-02-12 08:30:27"}
+{"level":"info","message":"Fetched all barangay projects","service":"user-service","timestamp":"2024-02-12 08:30:27"}
+{"level":"info","message":"Fetched all barangay projects","service":"user-service","timestamp":"2024-02-12 08:30:31"}
+{"level":"info","message":"Fetched all barangay projects","service":"user-service","timestamp":"2024-02-12 08:30:31"}
+{"level":"info","message":"Fetched all barangay projects","service":"user-service","timestamp":"2024-02-12 08:30:31"}
+{"level":"info","message":"Fetched all barangay projects","service":"user-service","timestamp":"2024-02-12 08:30:34"}
+{"level":"info","message":"Fetched all barangay projects","service":"user-service","timestamp":"2024-02-12 08:30:34"}
+{"level":"info","message":"Fetched all barangay projects","service":"user-service","timestamp":"2024-02-12 08:30:34"}
+{"level":"info","message":"Fetched all barangay projects","service":"user-service","timestamp":"2024-02-12 08:30:37"}
+{"level":"info","message":"Fetched all barangay projects","service":"user-service","timestamp":"2024-02-12 08:30:37"}
+{"level":"info","message":"Fetched all barangay projects","service":"user-service","timestamp":"2024-02-12 08:30:37"}
+{"level":"info","message":"Fetched all barangay projects","service":"user-service","timestamp":"2024-02-12 08:30:40"}
+{"level":"info","message":"Fetched all barangay projects","service":"user-service","timestamp":"2024-02-12 08:30:40"}
+{"level":"info","message":"Fetched all barangay projects","service":"user-service","timestamp":"2024-02-12 08:30:40"}
+{"level":"info","message":"Fetched all barangay projects","service":"user-service","timestamp":"2024-02-12 08:30:43"}
+{"level":"info","message":"Fetched all barangay projects","service":"user-service","timestamp":"2024-02-12 08:30:43"}
+{"level":"info","message":"Fetched all barangay projects","service":"user-service","timestamp":"2024-02-12 08:30:43"}
+{"level":"info","message":"Fetched all barangay projects","service":"user-service","timestamp":"2024-02-12 08:30:47"}
+{"level":"info","message":"Fetched all barangay projects","service":"user-service","timestamp":"2024-02-12 08:30:47"}
+{"level":"info","message":"Fetched all barangay projects","service":"user-service","timestamp":"2024-02-12 08:30:47"}
+{"level":"info","message":"Fetched all barangay projects","service":"user-service","timestamp":"2024-02-12 08:30:51"}
+{"level":"info","message":"Fetched all barangay projects","service":"user-service","timestamp":"2024-02-12 08:30:51"}
+{"level":"info","message":"Fetched all barangay projects","service":"user-service","timestamp":"2024-02-12 08:30:51"}
+{"level":"info","message":"Fetched all barangay projects","service":"user-service","timestamp":"2024-02-12 08:30:56"}
+{"level":"info","message":"Fetched all barangay projects","service":"user-service","timestamp":"2024-02-12 08:30:56"}
+{"level":"info","message":"Fetched all barangay projects","service":"user-service","timestamp":"2024-02-12 08:30:56"}
+{"level":"info","message":"Fetched all barangay projects","service":"user-service","timestamp":"2024-02-12 08:30:59"}
+{"level":"info","message":"Fetched all barangay projects","service":"user-service","timestamp":"2024-02-12 08:30:59"}
+{"level":"info","message":"Fetched all barangay projects","service":"user-service","timestamp":"2024-02-12 08:30:59"}
+{"level":"info","message":"Fetched all barangay events","service":"user-service","timestamp":"2024-02-12 08:31:02"}
+{"level":"info","message":"Fetched all barangay events","service":"user-service","timestamp":"2024-02-12 08:31:02"}
+{"level":"info","message":"Fetched all barangay events","service":"user-service","timestamp":"2024-02-12 08:31:06"}
+{"level":"info","message":"Fetched all barangay events","service":"user-service","timestamp":"2024-02-12 08:31:06"}
+{"level":"info","message":"Fetched all barangay events","service":"user-service","timestamp":"2024-02-12 08:31:06"}
+{"level":"info","message":"Fetched all barangay events","service":"user-service","timestamp":"2024-02-12 08:31:09"}
+{"level":"info","message":"Fetched all barangay events","service":"user-service","timestamp":"2024-02-12 08:31:09"}
+{"level":"info","message":"Fetched all barangay events","service":"user-service","timestamp":"2024-02-12 08:31:09"}
+{"level":"info","message":"Fetched all barangay events","service":"user-service","timestamp":"2024-02-12 08:31:11"}
+{"level":"info","message":"Fetched all barangay events","service":"user-service","timestamp":"2024-02-12 08:31:11"}
+{"level":"info","message":"Fetched all barangay events","service":"user-service","timestamp":"2024-02-12 08:31:11"}
+{"level":"info","message":"Fetched all barangay events","service":"user-service","timestamp":"2024-02-12 08:31:14"}
+{"level":"info","message":"Fetched all barangay events","service":"user-service","timestamp":"2024-02-12 08:31:14"}
+{"level":"info","message":"Fetched all barangay events","service":"user-service","timestamp":"2024-02-12 08:31:14"}
+{"level":"info","message":"Fetched all barangay events","service":"user-service","timestamp":"2024-02-12 08:31:17"}
+{"level":"info","message":"Fetched all barangay events","service":"user-service","timestamp":"2024-02-12 08:31:17"}
+{"level":"info","message":"Fetched all barangay events","service":"user-service","timestamp":"2024-02-12 08:31:17"}
+{"level":"info","message":"Fetched all barangay events","service":"user-service","timestamp":"2024-02-12 08:31:20"}
+{"level":"info","message":"Fetched all barangay events","service":"user-service","timestamp":"2024-02-12 08:31:20"}
+{"level":"info","message":"Fetched all barangay events","service":"user-service","timestamp":"2024-02-12 08:31:20"}
+{"level":"info","message":"Fetched all barangay events","service":"user-service","timestamp":"2024-02-12 08:31:22"}
+{"level":"info","message":"Fetched all barangay events","service":"user-service","timestamp":"2024-02-12 08:31:22"}
+{"level":"info","message":"Fetched all barangay events","service":"user-service","timestamp":"2024-02-12 08:31:22"}
+{"level":"info","message":"Fetched all barangay events","service":"user-service","timestamp":"2024-02-12 08:31:25"}
+{"level":"info","message":"Fetched all barangay events","service":"user-service","timestamp":"2024-02-12 08:31:25"}
+{"level":"info","message":"Fetched all barangay events","service":"user-service","timestamp":"2024-02-12 08:31:25"}
+{"level":"info","message":"Fetched all barangay events","service":"user-service","timestamp":"2024-02-12 08:31:27"}
+{"level":"info","message":"Fetched all barangay events","service":"user-service","timestamp":"2024-02-12 08:31:28"}
+{"level":"info","message":"Fetched all barangay events","service":"user-service","timestamp":"2024-02-12 08:31:28"}
+{"level":"info","message":"Fetched all barangay events","service":"user-service","timestamp":"2024-02-12 08:31:30"}
+{"level":"info","message":"Fetched all barangay events","service":"user-service","timestamp":"2024-02-12 08:31:30"}
+{"level":"info","message":"Fetched all barangay events","service":"user-service","timestamp":"2024-02-12 08:31:30"}
+{"level":"info","message":"Fetched all barangay events","service":"user-service","timestamp":"2024-02-12 08:31:33"}
+{"level":"info","message":"Fetched all barangay events","service":"user-service","timestamp":"2024-02-12 08:31:33"}
+{"level":"info","message":"Fetched all barangay events","service":"user-service","timestamp":"2024-02-12 08:31:33"}
+{"level":"info","message":"Fetched all certification records","service":"user-service","timestamp":"2024-02-12 08:31:35"}
+{"level":"info","message":"Fetched all certification records","service":"user-service","timestamp":"2024-02-12 08:31:35"}
+{"level":"info","message":"Fetched all residents","service":"user-service","timestamp":"2024-02-12 08:31:36"}
+{"level":"info","message":"Fetched all residents","service":"user-service","timestamp":"2024-02-12 08:31:36"}
+{"level":"info","message":"Certification record created successfully","service":"user-service","timestamp":"2024-02-12 08:32:29"}
+{"level":"info","message":"Fetched all certification records","service":"user-service","timestamp":"2024-02-12 08:32:29"}
+{"level":"info","message":"Fetched all certification records","service":"user-service","timestamp":"2024-02-12 08:32:29"}
+{"level":"info","message":"Fetched all certification records","service":"user-service","timestamp":"2024-02-12 08:32:29"}
+{"level":"info","message":"Fetched all certification records","service":"user-service","timestamp":"2024-02-12 08:33:13"}
+{"level":"info","message":"Fetched all certification records","service":"user-service","timestamp":"2024-02-12 08:33:13"}
+{"level":"info","message":"Fetched all residents","service":"user-service","timestamp":"2024-02-12 08:33:14"}
+{"level":"info","message":"Fetched all residents","service":"user-service","timestamp":"2024-02-12 08:33:14"}
+{"level":"info","message":"Certification record created successfully","service":"user-service","timestamp":"2024-02-12 08:33:17"}
+{"level":"info","message":"Fetched all certification records","service":"user-service","timestamp":"2024-02-12 08:33:17"}
+{"level":"info","message":"Fetched all certification records","service":"user-service","timestamp":"2024-02-12 08:33:17"}
+{"level":"info","message":"Fetched all certification records","service":"user-service","timestamp":"2024-02-12 08:33:17"}
+{"level":"info","message":"Fetched all residents","service":"user-service","timestamp":"2024-02-12 08:33:18"}
+{"level":"info","message":"Fetched all residents","service":"user-service","timestamp":"2024-02-12 08:33:18"}
+{"level":"info","message":"Certification record created successfully","service":"user-service","timestamp":"2024-02-12 08:33:21"}
+{"level":"info","message":"Fetched all certification records","service":"user-service","timestamp":"2024-02-12 08:33:21"}
+{"level":"info","message":"Fetched all certification records","service":"user-service","timestamp":"2024-02-12 08:33:21"}
+{"level":"info","message":"Fetched all certification records","service":"user-service","timestamp":"2024-02-12 08:33:21"}
+{"level":"info","message":"Fetched all residents","service":"user-service","timestamp":"2024-02-12 08:33:22"}
+{"level":"info","message":"Fetched all residents","service":"user-service","timestamp":"2024-02-12 08:33:22"}
+{"level":"info","message":"Certification record created successfully","service":"user-service","timestamp":"2024-02-12 08:33:24"}
+{"level":"info","message":"Fetched all certification records","service":"user-service","timestamp":"2024-02-12 08:33:25"}
+{"level":"info","message":"Fetched all certification records","service":"user-service","timestamp":"2024-02-12 08:33:25"}
+{"level":"info","message":"Fetched all certification records","service":"user-service","timestamp":"2024-02-12 08:33:25"}
